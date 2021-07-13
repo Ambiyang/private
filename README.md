@@ -46,4 +46,29 @@ js extend function of filters that can not block ad thoroughly,like pop-up etc.
  - element
  - 
 
+## DNS
+
+## VPN
+- hide your real whereabouts and stay anonymous
+- bypass geo restrictions on music and video streaming services
+- protect yourself from spoofing (network traffic interception) and tracking on the part of your Internet service provider
+
+## AdGuard VPN
+- regular and selective mode
+- blocks WebRTC
+- Apps settings.Turn off the switch next to any app to tell AdGuard VPN to ignore this app's traffic.
+- Kill Switch.If connection drops for any reason, Kill Switch will block access to the Internet, thus preventing your anonymity from becoming compromised.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
 
